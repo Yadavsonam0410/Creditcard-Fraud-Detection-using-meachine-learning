@@ -1,7 +1,5 @@
 # Creditcard-Fraud-Detection-using-meachine-learning
-
-
-               ![cre](https://github.com/user-attachments/assets/df93fed1-bc1a-4a57-81e1-c4fd340fb31d)
+  ![cre](https://github.com/user-attachments/assets/df93fed1-bc1a-4a57-81e1-c4fd340fb31d)
 
 
 ## Overview
@@ -25,8 +23,7 @@ The project follows these major steps:
 4. **Model Evaluation**: The accuracy of the model is evaluated using a confusion matrix and accuracy score.
 
 method to implement
-  
-  ![image](https://github.com/user-attachments/assets/67bacddd-9ce7-4c5d-8c49-34bf7534a3d1)
+![image](https://github.com/user-attachments/assets/67bacddd-9ce7-4c5d-8c49-34bf7534a3d1)
 
 ## Dataset
 The dataset used in this project is from the **UCI Machine Learning Repository** and contains information about credit card transactions.
