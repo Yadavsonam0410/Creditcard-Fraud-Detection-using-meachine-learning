@@ -1,6 +1,9 @@
 # Creditcard-Fraud-Detection-using-meachine-learning
 
 
+![cre](https://github.com/user-attachments/assets/df93fed1-bc1a-4a57-81e1-c4fd340fb31d)
+
+
 ## Overview
 This project aims to develop a machine learning model for credit card fraud detection using a dataset of credit card transactions. The dataset includes both legitimate and fraudulent transactions, and the goal is to predict fraudulent transactions based on various features. This project employs logistic regression for classification, and the dataset has been preprocessed to handle imbalances between the classes.
 
